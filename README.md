@@ -2,7 +2,8 @@ Treue Technologies
 
 Java Development Internship
 
-1) Online Parking System
+1) Online Parking System :-
+   
  In this Project, When the user is not logged in , they can either register or log in. After logging in , the user can :
 * Check for available parking spaces.
 * Reserve a parking spot by providing the spot number.
