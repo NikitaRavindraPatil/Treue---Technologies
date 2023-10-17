@@ -15,20 +15,22 @@ Java Development Internship
 * IDE : IntelliJ idea
 
 2)  Task Reminder Application :-
-   In this project, Task Reminder Application provides a basic command-line interface for managing tasks. Users can :
- * Add tasks
- * Mark them as completed 
- * View their tasks 
- * Exit the application
+
+  In this project, Task Reminder Application provides a basic command-line interface for managing tasks. Users can :
+* Add tasks
+* Mark them as completed 
+* View their tasks 
+* Exit the application
    The task are stored in a list , and their details are displayed as needed.
    * Language : Java
    * IDE : IntelliJ idea
 
 3) Online Voting System :-
-   This code represents a simple command-line-based voting system where users can :-
-   * Vote for different political parties
-   * Administrators can log in to view results and manage voting data
-   * The program provides a basic menu-driven interface for user interactions
+   
+  This code represents a simple command-line-based voting system where users can :-
+* Vote for different political parties
+* Administrators can log in to view results and manage voting data
+* The program provides a basic menu-driven interface for user interactions
      The code organization could be improved, and it assumes the existence of certain classes (e.g., Admin and Parties).
    * Language : Java
    * IDE : IntelliJ idea
